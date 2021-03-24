@@ -493,8 +493,8 @@ x1=[-10+0.1:10];
 Equation_1=x1^2+2*x1+1;
 Equation_2=x1^2-2*x1-1;
 
-// plot command is used to draw line graph of defined functions, and its usage is as "plot(x_axis,Equation_name)".
-
+// plot command is used to draw line graph of defined functions, 
+// and its usage is as "plot(x_axis,Equation_name)".
 
 //plot(x1,Equation_1);
 //plot(x1,Equation_2);
